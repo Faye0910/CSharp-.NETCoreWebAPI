@@ -3,7 +3,7 @@ using WebApiTest.Models;
 
 namespace WebApiTest.Service
 {
-    public class StudentService
+    public class StudentService//Service提供方法
     {
         static List<Student> students { get; }
         static int id = 2;
@@ -15,7 +15,6 @@ namespace WebApiTest.Service
                 new Student{Id=2,Class="1B",Name="Eve" },
             };
         }
-
         public static List<Student> GetAll() => students;
         public static Student? Get(int id) => students.FirstOrDefault(p => p.Id == id);
         public static void Add(Student student)
@@ -24,7 +23,6 @@ namespace WebApiTest.Service
             id= student.Id;
             students.Add(student);
         }
-
         public static void Delete(int id) 
         {
             var student = Get(id);
