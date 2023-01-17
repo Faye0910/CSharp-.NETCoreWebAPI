@@ -24,6 +24,5 @@ namespace WebApiTest.Controllers
             var filepath = Path.Combine("images", "R.png");
             return File(System.IO.File.ReadAllBytes(filepath), "image/png", System.IO.Path.GetFileName(filepath));
         }
-
     }
 }
