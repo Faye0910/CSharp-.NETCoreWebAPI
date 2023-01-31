@@ -16,8 +16,8 @@ namespace WebApiTest.Controllers
         public ActionResult<List<Student>> Add(string Class,string name)
         {
             Student student = new Student { Id=4, Class = Class, Name = name };
-                StudentService.Add(student);
-                return StudentService.GetAll();
+            StudentService.Add(student);
+            return StudentService.GetAll();
         }
     }
 }

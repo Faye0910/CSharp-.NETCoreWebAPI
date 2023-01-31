@@ -27,8 +27,7 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\nupkg": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\nupkg": {}
         },
         "frameworks": {
           "net6.0": {

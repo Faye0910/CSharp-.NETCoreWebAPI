@@ -1,0 +1,4 @@
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\win-x86\PubTmp\Out\WebApiTest.pdb
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\win-x86\PubTmp\Out\WebApiTest.exe

@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\WebApiTest.exe
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\WebApiTest.dll
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\WebApiTest.deps.json
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\WebApiTest.runtimeconfig.json
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\WebApiTest.pdb
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Faye.Lin\source\repos\WebApiTest\WebApiTest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
