@@ -7,7 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Microsoft.Data.SqlClient.SNI.runtime" Version="5.0.1" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="7.0.1" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="7.0.3" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" PrivateAssets="all" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" PrivateAssets="all" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" PrivateAssets="all" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" PrivateAssets="all" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" PrivateAssets="all" />
+    <PackageReference Include="System.Buffers" Version="4.5.1" PrivateAssets="all" />
+    <PackageReference Include="System.Memory" Version="4.5.3" PrivateAssets="all" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.4.0" PrivateAssets="all" />
+    <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.0.0" PrivateAssets="all" />
+    <PackageReference Include="System.Security.Permissions" Version="5.0.0" />
   </ItemGroup>
 
 </Project>

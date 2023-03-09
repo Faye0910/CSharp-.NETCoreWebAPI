@@ -1,15 +1,218 @@
 {
   "version": 2,
-  "dgSpecHash": "q9VW6Lw0H7YqYGel7JfAqcau4JGKcwqOqdbHZuhLY5G/aVS//lYKhjeX2/lg+VuPcVtRRGyMWI/rul/6EPnaXw==",
+  "dgSpecHash": "08OR0UE2CMKVWzzlQCQoBn6ZHkbDhHDKQIr/VpjCZEJ0l+Xcld+7VWk2rs4hhvvsA069BIBMdDTt3p2cudI1AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Faye.Lin\\source\\repos\\WebApiTest\\WebApiTest\\WebApiTest.csproj",
+  "projectFilePath": "C:\\Users\\Faye.Lin\\source\\repos\\CSharp-.NETCoreWebAPI\\WebApiTest\\WebApiTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\google.protobuf\\3.22.1\\google.protobuf.3.22.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0\\microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.1\\microsoft.entityframeworkcore.relational.7.0.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.0\\microsoft.entityframeworkcore.tools.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\7.0.3\\microsoft.extensions.apidescription.server.7.0.3.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.openapi\\1.4.5\\microsoft.openapi.1.4.5.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\mono.texttemplating\\2.3.1\\mono.texttemplating.2.3.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\mysql.data\\8.0.32\\mysql.data.8.0.32.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\mysql.data.entityframeworkcore\\8.0.22\\mysql.data.entityframeworkcore.8.0.22.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.Data 8.0.32 相依於 Google.Protobuf (>= 3.21.9)，但找不到 Google.Protobuf 3.21.9。已解析了約略的最佳相符 Google.Protobuf 3.22.1。",
+      "libraryId": "Google.Protobuf",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.Data 8.0.32 相依於 K4os.Compression.LZ4.Streams (>= 1.2.6)，但找不到 K4os.Compression.LZ4.Streams 1.2.6。已解析了約略的最佳相符 K4os.Compression.LZ4.Streams 1.3.5。",
+      "libraryId": "K4os.Compression.LZ4.Streams",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.EntityFrameworkCore.Design 7.0.0 相依於 Microsoft.EntityFrameworkCore.Relational (>= 7.0.0)，但找不到 Microsoft.EntityFrameworkCore.Relational 7.0.0。已解析了約略的最佳相符 Microsoft.EntityFrameworkCore.Relational 7.0.1。",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.Data.EntityFrameworkCore 8.0.22 相依於 Microsoft.EntityFrameworkCore.Relational (>= 3.1.1)，但找不到 Microsoft.EntityFrameworkCore.Relational 3.1.1。已解析了約略的最佳相符 Microsoft.EntityFrameworkCore.Relational 7.0.1。",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Swashbuckle.AspNetCore 6.2.3 相依於 Microsoft.Extensions.ApiDescription.Server (>= 3.0.0)，但找不到 Microsoft.Extensions.ApiDescription.Server 3.0.0。已解析了約略的最佳相符 Microsoft.Extensions.ApiDescription.Server 7.0.3。",
+      "libraryId": "Microsoft.Extensions.ApiDescription.Server",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Security.AccessControl 5.0.0 相依於 Microsoft.NETCore.Platforms (>= 5.0.0)，但找不到 Microsoft.NETCore.Platforms 5.0.0。已解析了約略的最佳相符 Microsoft.NETCore.Platforms 5.0.4。",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Text.Encoding.CodePages 5.0.0 相依於 Microsoft.NETCore.Platforms (>= 5.0.0)，但找不到 Microsoft.NETCore.Platforms 5.0.0。已解析了約略的最佳相符 Microsoft.NETCore.Platforms 5.0.4。",
+      "libraryId": "Microsoft.NETCore.Platforms",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Swashbuckle.AspNetCore.Swagger 6.5.0 相依於 Microsoft.OpenApi (>= 1.2.3)，但找不到 Microsoft.OpenApi 1.2.3。已解析了約略的最佳相符 Microsoft.OpenApi 1.4.5。",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.EntityFrameworkCore.Design 7.0.0 相依於 Mono.TextTemplating (>= 2.2.1)，但找不到 Mono.TextTemplating 2.2.1。已解析了約略的最佳相符 Mono.TextTemplating 2.3.1。",
+      "libraryId": "Mono.TextTemplating",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.Data.EntityFrameworkCore 8.0.22 相依於 MySql.Data (>= 8.0.22)，但找不到 MySql.Data 8.0.22。已解析了約略的最佳相符 MySql.Data 8.0.32。",
+      "libraryId": "MySql.Data",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Mono.TextTemplating 2.3.1 相依於 System.CodeDom (>= 5.0.0)，但找不到 System.CodeDom 5.0.0。已解析了約略的最佳相符 System.CodeDom 7.0.0。",
+      "libraryId": "System.CodeDom",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.Data 8.0.32 相依於 System.Configuration.ConfigurationManager (>= 4.4.1)，但找不到 System.Configuration.ConfigurationManager 4.4.1。已解析了約略的最佳相符 System.Configuration.ConfigurationManager 5.0.0。",
+      "libraryId": "System.Configuration.ConfigurationManager",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Windows.Extensions 5.0.0 相依於 System.Drawing.Common (>= 5.0.0)，但找不到 System.Drawing.Common 5.0.0。已解析了約略的最佳相符 System.Drawing.Common 7.0.0。",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "K4os.Compression.LZ4.Streams 1.3.5 相依於 System.IO.Pipelines (>= 6.0.3)，但找不到 System.IO.Pipelines 6.0.3。已解析了約略的最佳相符 System.IO.Pipelines 7.0.0。",
+      "libraryId": "System.IO.Pipelines",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.Data 8.0.32 相依於 System.Text.Encoding.CodePages (>= 4.4.0)，但找不到 System.Text.Encoding.CodePages 4.4.0。已解析了約略的最佳相符 System.Text.Encoding.CodePages 5.0.0。",
+      "libraryId": "System.Text.Encoding.CodePages",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

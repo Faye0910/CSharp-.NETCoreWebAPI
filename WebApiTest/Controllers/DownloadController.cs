@@ -7,6 +7,10 @@ namespace WebApiTest.Controllers
     [Route("[controller]")]
     public class DownloadController : ControllerBase  //Controller執行
     {
+        public DownloadController() {
+
+        }
+
         [HttpGet("DownloadFormURL")]
         public IActionResult DownloadFromUrl()
         {
